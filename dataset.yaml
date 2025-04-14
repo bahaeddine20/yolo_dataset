@@ -1,0 +1,34 @@
+path: yolo_dataset
+train: images/train
+val: images/train
+names:
+  0: appsgrid
+  1: bluetooth_menu
+  2: bluetooth_off
+  3: bluetooth_on
+  4: call
+  5: fan
+  6: fan_auto
+  7: fan_cold
+  8: fan_mode1
+  9: fan_mode2
+  10: fan_mode3
+  11: fan_mode4
+  12: grid_menu
+  13: home
+  14: localisation
+  15: localisation_menu
+  16: lum
+  17: lum_menu
+  18: mic
+  19: notif
+  20: notif_menu
+  21: profiles_menu
+  22: reseau
+  23: reseau_menu
+  24: securite_menu
+  25: son_menu
+  26: swip_menu
+  27: system_menu
+  28: toggle_off
+  29: toggle_on
