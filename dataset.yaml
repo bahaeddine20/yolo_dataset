@@ -28,7 +28,6 @@ names:
   23: reseau_menu
   24: securite_menu
   25: son_menu
-  26: swip_menu
-  27: system_menu
-  28: toggle_off
-  29: toggle_on
+  26: system_menu
+  27: toggle_off
+  28: toggle_on
