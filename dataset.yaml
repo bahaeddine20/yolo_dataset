@@ -1,32 +1,36 @@
-path: yolo_dataset
-train: images/train
-val: images/train
+path: /kaggle/working/yolo_dataset
+train: images
+val: images
+test: images
+
 names:
   0: appsgrid
   1: bluetooth_menu
   2: bluetooth_off
   3: bluetooth_on
   4: call
-  5: fan
-  6: fan_cold
-  7: fan_mode1
-  8: fan_mode2
-  9: fan_mode3
-  10: fan_mode4
-  11: grid_menu
-  12: home
-  13: localisation
-  14: localisation_menu
-  15: lum
-  16: lum_menu
-  17: mic
-  18: notif
-  19: notif_menu
-  20: profiles_menu
-  21: reseau
-  22: reseau_menu
-  23: securite_menu
-  24: son_menu
-  25: system_menu
-  26: toggle_off
-  27: toggle_on
+  5: callsAnswer
+  6: endcall
+  7: fan
+  8: fan_cold
+  9: fan_mode1
+  10: fan_mode2
+  11: fan_mode3
+  12: fan_mode4
+  13: grid_menu
+  14: home
+  15: localisation
+  16: localisation_menu
+  17: lum
+  18: lum_menu
+  19: mic
+  20: notif
+  21: notif_menu
+  22: profiles_menu
+  23: reseau
+  24: reseau_menu
+  25: securite_menu
+  26: son_menu
+  27: system_menu
+  28: toggle_off
+  29: toggle_on
